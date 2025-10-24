@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "976619102080",
+    "project_id": "school-ias",
+    "storage_bucket": "school-ias.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976619102080:android:dad22aedf1e44a135f6b65",
+        "android_client_info": {
+          "package_name": "com.example.ias"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNIrOakba_DtqeY6McAbbOF8jVcKvtBog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
